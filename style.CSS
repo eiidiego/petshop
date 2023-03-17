@@ -1,0 +1,14 @@
+body {
+    background-image:url("img/fundo.jpg") ;
+   /* background-color: rgb(19, 136, 231);
+  */
+  font-family: 'Teko', sans-serif;
+  }
+  .fonte
+{font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+.border
+  { border-style:dashed;
+  border-width: 10px;
+border-style: solid; 
+border-color:rgb(112, 207, 207); }
